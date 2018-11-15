@@ -110,7 +110,6 @@ ul {
   height: 1000px;
   padding-left: 180px;
   padding-top: 50px;
-  background-color: pink;
   transition: all 1s;
 }
 .lt_main.hidemenu {
@@ -137,4 +136,11 @@ ul {
   text-align: center;
   color: #fff;
   font-size: 20px;
+}
+
+
+.echarts_left,
+.echarts_right {
+  height: 400px;
+  width: 48%;
 }
