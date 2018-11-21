@@ -1,21 +1,3 @@
-.lt_search {
-  padding: 10px;
-  position: relative;
-}
-.lt_search .search_input {
-  height: 34px;
-  font-size: 12px;
-  margin: 0;
-  border: 1px solid #479FFF;
-  border-radius: 5px;
-}
-.lt_search .search_btn {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-  border-radius: 0 5px 5px 0px;
-}
-
 .lt_history {
   padding: 0 10px;
   font-size: 12px;
