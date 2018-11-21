@@ -147,6 +147,9 @@ img {
 .lt_product_item .mui-ellipsis-2 {
   height: 40px;
 }
+.lt_product_item a {
+  display: block;
+}
 
 
 .lt_product .loading {
